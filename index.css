@@ -1,4 +1,5 @@
-.row {
+.header {
+  border-top:0px;
   background-color: #00eeee;
   border: 8px solid white;
 }
