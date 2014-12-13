@@ -1,7 +1,6 @@
 .header {
   background-color: #00eeee;
-  border: 8px solid white;
-  border-top: none;
+  border-top:none;
 }
 
 li {
