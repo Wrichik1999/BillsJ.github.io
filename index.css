@@ -3,3 +3,7 @@
   background-color: #00eeee;
   border: 8px solid white;
 }
+
+li {
+  list-style-type: none;
+}
